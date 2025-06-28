@@ -89,7 +89,3 @@ Quase lá\! Agora vamos "ligar" o Dashboard:
 2.  **Abra no navegador:** Abra seu navegador de internet (Chrome, Firefox, Edge, etc.) e digite o endereço que apareceu no terminal (por exemplo, `http://localhost:3000`).
 
 Parabéns\! O CoopMax Dashboard deve estar funcionando no seu navegador\! Agora você pode selecionar um cooperado de exemplo na caixa de busca para ver as informações.
-
------
-
-Se tiver qualquer dúvida, não hesite em pedir ajuda\! 😊
