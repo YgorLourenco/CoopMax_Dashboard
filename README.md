@@ -14,6 +14,25 @@ Ele mostra informações como:
 
 Basicamente, é uma ferramenta para ajudar a cooperativa a crescer e a atender seus cooperados de forma mais personalizada\!
 
+## Tecnologias e Dependências Utilizadas 🛠️
+
+Este projeto foi construído usando algumas das ferramentas mais modernas e poderosas para criar sites e aplicativos. Pense nelas como os "blocos de montar" e as "ferramentas de construção" que os desenvolvedores usam:
+
+  * **Next.js:** É como um "super-construtor" para sites React. Ele ajuda a criar páginas muito rápidas e que funcionam bem, tanto para quem usa (você, no navegador) quanto para quem desenvolve.
+  * **React:** É a "linguagem" principal para construir a interface visual do dashboard – tudo o que você vê e clica na tela.
+  * **TypeScript:** Pense nele como um "verificador de receitas" para o código JavaScript. Ele ajuda a evitar erros antes mesmo de o programa começar a rodar, tornando tudo mais seguro e organizado.
+  * **Tailwind CSS:** É como um "kit de tintas e pincéis" que torna super fácil e rápido estilizar o visual do dashboard, aplicando cores, tamanhos e layouts de forma eficiente.
+
+### Principais "Peças" (Dependências npm) Usadas:
+
+As "peças" são pequenos pacotes de código que adicionam funcionalidades específicas. Algumas das mais importantes são:
+
+  * `@radix-ui/react-*`: Um conjunto de "blocos de montar" prontos para criar componentes interativos como menus, popovers, caixas de seleção, etc.
+  * `lucide-react`: Uma biblioteca de ícones bonitos e fáceis de usar no dashboard.
+  * `recharts`: Usado para criar os gráficos e visualizações de dados que você vê no dashboard.
+  * `react-hook-form` e `zod`: Ajudam a lidar com formulários e a garantir que as informações digitadas estejam corretas.
+  * `tailwind-merge` e `class-variance-authority`: Ferramentas que trabalham com Tailwind CSS para criar estilos de forma mais flexível.
+
 ## Como Colocar o CoopMax Dashboard Para Rodar no Seu Computador (Windows) 💻
 
 Não se preocupe se você não entende de programação\! Vou explicar passo a passo, como se estivesse explicando para uma criança de 5 anos.
@@ -89,3 +108,7 @@ Quase lá\! Agora vamos "ligar" o Dashboard:
 2.  **Abra no navegador:** Abra seu navegador de internet (Chrome, Firefox, Edge, etc.) e digite o endereço que apareceu no terminal (por exemplo, `http://localhost:3000`).
 
 Parabéns\! O CoopMax Dashboard deve estar funcionando no seu navegador\! Agora você pode selecionar um cooperado de exemplo na caixa de busca para ver as informações.
+
+## Acesse o Protótipo Online\! ▶️
+
+Você também pode ver o CoopMax Dashboard funcionando online, sem precisar instalar nada\! Acesse por este link: [CoopMax Dashboard Online](https://coop-max-dashboard.vercel.app/)
